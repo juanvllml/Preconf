@@ -319,7 +319,7 @@ let pymesfetchports = async (nodo,comando,descripcion) => {
 /***** CMD ZTE *****/
 async function cmdzte(inputdata) {			
 	let result;
-	alertespere();	
+	//alertespere();	
 	try {
     result = await $.ajax({
 		type: 'POST',
