@@ -1,4 +1,4 @@
 {
-  "metodonodo":"nct -4",
+  "metodonodo":"ncat -4",
   "timestamp":"1542103200"
 }
