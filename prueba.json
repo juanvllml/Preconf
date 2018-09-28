@@ -1,1 +1,1 @@
-{"hdxconn":"ncat -4 172.31.239.53 22"}
+{"hdxconn":"'ncat -4 '+nodo+' 22'"}
