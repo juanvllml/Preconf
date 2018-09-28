@@ -1,1 +1,1 @@
-{"hdxconn":"`ncat -4 ${nodo} 22`"}
+{"metodonodo":"ncat -4"}
