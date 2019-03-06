@@ -1,5 +1,5 @@
 {
-  "metodonodo":"ncat -4",
+  "metodonodo":"nc -4",
   "timestamp":1575663076,
   "readytimeout":99999
 }
